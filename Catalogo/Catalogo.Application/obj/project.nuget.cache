@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "UWYxp7YAhszj3BC1GnQbYiFIELX6oJ/x7GOw3WacoFDbBrOWdySXjqDmdLIDmUEg5amoU0X1xJSoaYA++e73AA==",
+  "dgSpecHash": "UqrqTIHDAgdFIbwgwtCg3gxS3tBGL3KHyJ1JRq19Y1htcTDbvMArjXHVo/6ZCsKJE8PPYvwqPatg0sLNL5cCgw==",
   "success": true,
   "projectFilePath": "C:\\Users\\rober\\OneDrive\\Área de Trabalho\\‍‍\\CURSO - ASP .NET CORE MACORATTI\\Clean Architecture\\Clean Architecture\\Catalogo\\Catalogo.Application\\Catalogo.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
